@@ -46,7 +46,7 @@
     <!-- Page Content -->
     <div class="content">
         <!-- Info -->
-        <div class="block block-rounded">
+        {{-- <div class="block block-rounded">
             <div class="block-header block-header-default">
                 <h3 class="block-title">Plugin Example</h3>
             </div>
@@ -55,7 +55,7 @@
                     This page showcases how easily you can add a plugin’s JS/CSS assets and init it using custom JS code.
                 </p>
             </div>
-        </div>
+        </div> --}}
         <!-- END Info -->
 
 
@@ -63,7 +63,7 @@
         <div class="block block-rounded">
             <div class="block-header block-header-default">
                 <h3 class="block-title">
-                    Dynamic Table <small>Export Buttons</small>
+                   Users
                 </h3>
             </div>
             <div class="block-content block-content-full">
